@@ -1,2 +1,2 @@
-# p1_Hailley_Kane
+# Hailley's Elevator User Interface
 Project 1 for Human Computer Interaction
