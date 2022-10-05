@@ -14,7 +14,10 @@ Common uses for elevators
 Common Sequences
 - open/close door
 - select floor
-- emergency/help
+
+Rare Sequences
+- emergency
+- call
 
 ![Elevator Prototype](https://github.com/hailley-kane/p1_Hailley_Kane/blob/main/Images/p1_prototype.png)
 ![Elevator Gif](https://github.com/hailley-kane/p1_Hailley_Kane/blob/main/Images/p1_interface_gif.gif)
