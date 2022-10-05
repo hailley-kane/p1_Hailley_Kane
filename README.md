@@ -11,7 +11,7 @@ Negatives of current design:
 
 Common uses for elevators
 - Method of transportation that is an alternate to taking the stairs
-- Also useful for carrying heavier items up to higher floors
+- Also useful for [elevating] heavier items up to higher floors
 
 Common Sequences
 - open/close door
