@@ -1,7 +1,8 @@
 # Stinky Elevator
 
 Project 1 for Human Computer Interaction
-![Elevator Image](https://github.com/hailley-kane/p1_Hailley_Kane/blob/main/Images/elevator_image.jpg)
+![elevator_image](https://user-images.githubusercontent.com/112648512/195138853-ac88e921-eeda-4864-9bc9-2899d964b461.jpg)
+
 Negatives of current design:
 - Extra circle at the top.
 - The entrance for The Roof is on the 10th floor not the top, and there is no sign/indicator of this until exiting the elevator.
@@ -21,5 +22,6 @@ Rare Sequences
 - emergency
 - call
 
-![Elevator Prototype](https://github.com/hailley-kane/p1_Hailley_Kane/blob/main/Images/p1_prototype.png)
-![Elevator Gif](https://github.com/hailley-kane/p1_Hailley_Kane/blob/main/Images/p1_interface_gif.gif)
+![p1_prototype](https://user-images.githubusercontent.com/112648512/195138934-cc6ac660-1a8b-4522-996b-02b9c2553f51.png)
+
+![p1_interface_gif](https://user-images.githubusercontent.com/112648512/195138948-8f98185b-73b3-4b78-b9d8-2f18e20a068a.gif)
